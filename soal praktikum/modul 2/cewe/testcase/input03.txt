@@ -1,0 +1,18 @@
+17
+masukin 10
+masukin 20
+masukin 30
+masukin 40
+masukin 50
+masukin 5
+berapa 5
+berapa 20
+masukin 15
+berapa 15
+berapa 20
+masukin 60
+berapa 20
+masukin 1
+berapa 20
+masukin 18
+berapa 20

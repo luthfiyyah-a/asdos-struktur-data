@@ -1,0 +1,15 @@
+11
+60 gebang
+40 lor
+25 wetan
+50 mulyos
+80 gputih
+90 keputih
+75 kidul
+100 alpro
+85 alin
+55 manyar
+45 suko
+2
+60 100
+85 100

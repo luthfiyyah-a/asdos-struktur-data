@@ -1,0 +1,12 @@
+7
+60 gebang
+40 lor
+25 wetan
+50 mulyos
+80 gputih
+90 keputih
+75 kidul
+3
+25 50
+80 50
+40 25

@@ -1,0 +1,3 @@
+tumpukan 1: 6 7 8
+tumpukan 2: 5 4
+tumpukan 3: 1 2 3

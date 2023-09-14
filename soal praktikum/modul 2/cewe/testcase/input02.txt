@@ -1,0 +1,10 @@
+9
+masukin 10
+masukin 20
+berapa 10
+masukin 30
+masukin 40
+masukin 50
+berapa 50
+anaksiapa 50
+anaksiapa 40

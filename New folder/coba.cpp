@@ -1,0 +1,5 @@
+#include <cstudio>
+
+int main(){
+	
+}

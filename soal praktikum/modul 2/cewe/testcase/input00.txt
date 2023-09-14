@@ -1,0 +1,8 @@
+7
+masukin 100
+masukin 90
+anaksiapa 90
+anaksiapa 80
+masukin 120
+masukin 110
+berapa 100

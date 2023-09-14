@@ -1,0 +1,4 @@
+3
+anaksiapa 100
+masukin 100
+anaksiapa 100
